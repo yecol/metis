@@ -1,0 +1,922 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sor",
+				"sort"
+			],
+			[
+				"a",
+				"album"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"la",
+				"lang"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"fa",
+				"fancybox-nav"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bod",
+				"border"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"site",
+				"site-nav-logo"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"image",
+				"imageaddress"
+			],
+			[
+				"data",
+				"data-original"
+			],
+			[
+				"hover",
+				"hover-btn"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"out",
+				"outerHeight	.outerHeight"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"y-gre",
+				"y-green-2"
+			],
+			[
+				"y-g",
+				"y-green-1"
+			],
+			[
+				"new",
+				"new_albums"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fu",
+				"fullheight"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"ph",
+				"photography"
+			],
+			[
+				"index",
+				"index-photo"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"w-p",
+				"w-p-desc"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inlie",
+				"inline-block"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"me",
+				"menuheight"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"colr",
+				"fade(color, 50%)"
+			],
+			[
+				"full",
+				"fullheight"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"flex-de",
+				"flex-direction-nav"
+			],
+			[
+				"pa",
+				"palias"
+			],
+			[
+				"arti",
+				"article"
+			],
+			[
+				"blog",
+				"blog-index"
+			],
+			[
+				"inde",
+				"index_content"
+			],
+			[
+				"gen",
+				"generate"
+			],
+			[
+				"str",
+				"strip"
+			],
+			[
+				"pro",
+				"processBlog"
+			],
+			[
+				"pti",
+				"ptime"
+			],
+			[
+				"html",
+				"html_content"
+			],
+			[
+				"get",
+				"get"
+			],
+			[
+				"ar",
+				"article"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"y-gr",
+				"y-gray"
+			],
+			[
+				"j",
+				"jpegOptimQuality"
+			],
+			[
+				"roo",
+				"root_dir"
+			],
+			[
+				"de",
+				"deploy"
+			],
+			[
+				"com",
+				"commands"
+			],
+			[
+				"output",
+				"output_album_handle"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"photo",
+				"photo_file"
+			],
+			[
+				"c",
+				"clearfix"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"alb",
+				"album_list"
+			],
+			[
+				"al",
+				"album_list"
+			],
+			[
+				"n",
+				"nearTime"
+			],
+			[
+				"cur",
+				"curTime"
+			],
+			[
+				"pho",
+				"photo_list"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"so",
+				"social"
+			],
+			[
+				"add",
+				"add_header"
+			],
+			[
+				"tpl",
+				"tpl_js"
+			],
+			[
+				"custo",
+				"custom_footer"
+			],
+			[
+				"page",
+				"page_dir"
+			],
+			[
+				"exif",
+				"exif_info"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"tp",
+				"tpl_footer"
+			],
+			[
+				"ab",
+				"albums"
+			],
+			[
+				"about",
+				"about_handle"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"time",
+				"time2String"
+			],
+			[
+				"ge",
+				"generateFiles"
+			],
+			[
+				"pra",
+				"paragraph"
+			],
+			[
+				"input",
+				"input_paragraph"
+			],
+			[
+				"para",
+				"paragraph"
+			],
+			[
+				"f",
+				"font-weight"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"to",
+				"toggle	.toggle() (show/hide)"
+			],
+			[
+				"backr",
+				"background-position"
+			],
+			[
+				"anima",
+				"animate	animate"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"summa",
+				"summary-content"
+			],
+			[
+				"sum",
+				"summary"
+			],
+			[
+				"entry",
+				"entry-title"
+			],
+			[
+				"entry-sum",
+				"entry-summary-header"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"resize",
+				"resize-header"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"y-",
+				"y-green-1"
+			],
+			[
+				"s",
+				"smarty"
+			],
+			[
+				"mx",
+				"max-height"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"lin",
+				"link"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"error",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"err",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"show",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"shoe",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"er",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"prefixe",
+				"Preferences: Prefixr Key Bindings – User"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"tih",
+				"Tidy HTML"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package contr",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2007-001.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/EdiLife/page/20150407.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2014-001.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2010-001.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2008-001.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2007-002.log",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2008-001",
+		"/Users/Yecol/Documents/unimap.kml",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/EdiLife/page/template.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/EdiLife/page/1.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/EdiLife/assets/css/style.less",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/css/style.less",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/page/portfolio.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/shop/cowgate.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/index.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/generate.py",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/page/about.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/css/shop.less",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/shop/assets/style.less",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/404.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/photos.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/fancybox/jquery.fancybox.css",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/mobile.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/tpl/header.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/page/photos_js.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/tpl/footer.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/tpl/js.html",
+		"/Users/Yecol/Downloads/bootstrap-3.2.0/dist/css/bootstrap.css",
+		"/Users/Yecol/Downloads/bootstrap-3.2.0/less/navbar.less",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/new-photo.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/fancybox/jquery.fancybox.js",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/owl/owl.carousel.css",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/index-new.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/owl/owl.theme.css",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/assets/css/style.css",
+		"/Users/Yecol/Workspace/git-repo/demo-analytics/assets/css/style.less",
+		"/Users/Yecol/Workspace/git-repo/demo-analytics/data.html",
+		"/Users/Yecol/Desktop/untitled folder/index.css",
+		"/Users/Yecol/Desktop/untitled folder/hel.js",
+		"/Users/Yecol/Desktop/untitled folder/index.html",
+		"/D/xampp/htdocs/fornet/assets/css/style.less",
+		"/D/xampp/htdocs/yecols.cn/inc/generate.py",
+		"/D/xampp/htdocs/yecols.cn/inc/blog/2013-001.log",
+		"/D/skydrive/GoodReader/spank/lust/新兵航海日记.txt",
+		"/D/xampp/htdocs/yecols.cn/inc/page/blog-index.html",
+		"/D/xampp/htdocs/yecols.cn/inc/tpl/header.html",
+		"/D/xampp/htdocs/yecols.cn/inc/page/blog-post.html",
+		"/D/xampp/htdocs/yecols.cn/inc/page/about.html",
+		"/D/xampp/htdocs/yecols.cn/inc/blog/2013-10-09.log",
+		"/D/xampp/htdocs/yecols.cn/portfolio/index.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/portfolio/index.html",
+		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/page/album.html",
+		"/D/xampp/htdocs/yecols.cn/inc/page/portfolio.html",
+		"/D/xampp/htdocs/yecols.cn/sites/pr_demos/index.html",
+		"/D/xampp/htdocs/yecols.cn/assets/css/style.css",
+		"/C/Users/Yecol/AppData/Roaming/Sublime Text 2/Packages/Less2Css/less2css.sublime-settings",
+		"/D/xampp/htdocs/yecols.cn/assets/css/bootstrap.min.css",
+		"/D/xampp/htdocs/yecols.cn/sites/pr_face/index.html",
+		"/D/xampp/htdocs/yecols.cn/sites/pr_face/css/style.css",
+		"/D/workspace_git/yecols.cn/sites/pr_vs/result.html",
+		"/D/workspace_git/yecols.cn/inc/page/portfolio.html",
+		"/D/workspace_git/dengt/index.html",
+		"/D/workspace_git/yecols.cn/index.html",
+		"/D/workspace_git/yecols.cn/photos/index.html",
+		"/D/workspace_git/yecols.cn/photos/iphone/index.html",
+		"/D/workspace_git/yecols.cn/inc/generate.py",
+		"/D/xampp/htdocs/baidu-charity/static/assets/css/style.less",
+		"/D/workspace_git/yecols.cn/sftp-config.json",
+		"/D/workspace_git/yecols.cn/about/index.html",
+		"/D/workspace_git/yecols.cn/about/index1.html",
+		"/C/Windows/System32/drivers/etc/hosts"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"吧",
+			"post",
+			"index",
+			"faces",
+			"keyword",
+			"keywords",
+			"nav",
+			"#index",
+			"new.png",
+			"new",
+			"120px",
+			"120p'x",
+			"media",
+			"padding-top",
+			"photos",
+			"padding: 60",
+			"main.photos",
+			"main",
+			"max-width:",
+			"max-width: 940px",
+			"site-nav-logo",
+			"navbar-collapse",
+			"navbar-nav",
+			"navbar",
+			"nav",
+			"jpg",
+			"j'p'g",
+			"thumb",
+			"b-photo",
+			"a-photo",
+			"trans",
+			"t'ran's",
+			"ms-1",
+			"}\n",
+			"simg",
+			"    ",
+			"icon",
+			"media",
+			"icon",
+			"os.path.exists(path)",
+			"and",
+			"\")\n",
+			"page_dir",
+			"processSin",
+			"output_handle",
+			"add_header",
+			"output_handle",
+			"filename",
+			"inc",
+			"blog",
+			"album",
+			"social",
+			"weibo",
+			"social",
+			"str",
+			"get_exif_data",
+			"print",
+			"a-album",
+			"a-al",
+			"media",
+			";\n",
+			"img",
+			"page",
+			"();\n",
+			"checkwords.py",
+			"summary-content",
+			"footer",
+			"link_page",
+			"link-page",
+			"article",
+			"entry-header",
+			"header",
+			"body",
+			"a",
+			"header",
+			"button",
+			"page",
+			".entry-content p",
+			".entry-content p, .entry-summary p, .comment-content p, .mu_register p",
+			"body p",
+			"font-family",
+			"site-content",
+			"content",
+			"hr",
+			"../res",
+			"\"./res",
+			"./res/",
+			"./res",
+			"image",
+			"a-001",
+			"{\n",
+			"text-align: center;\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"large",
+			"a-photo",
+			"b-photo",
+			"/res",
+			"\"../res",
+			"../res/",
+			"../res"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.942706364236,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 213.0
+	},
+	"output.git":
+	{
+		"height": 161.0
+	},
+	"output.sftp":
+	{
+		"height": 135.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true
+}
