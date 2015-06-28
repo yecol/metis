@@ -12,7 +12,6 @@
  *
  */
 
-#include "metisbin.h"
 #include "iostream"
 #include "fstream"
 #include "sstream"
@@ -20,18 +19,23 @@
 #include "set"
 #include "vector"
 
+extern "C" {
+#include "metisbin.h"
+}
+
+
 using namespace std;
 
 void getVertexID(string line, int &id) {
-  stringstream ss(line);
-  ss >> id;
-  return;
+	stringstream ss(line);
+	ss >> id;
+	return;
 }
 
 void getEdgeSourceTarget(string line, int &source, int &target) {
-  stringstream ss(line);
-  ss >> source >> target;
-  return;
+	stringstream ss(line);
+	ss >> source >> target;
+	return;
 }
 
 int main(int argc, char *argv[])
@@ -164,7 +168,7 @@ int main(int argc, char *argv[])
 	int status = 0;
 
 	/* Change filename to formated undirected file*/
-    strcpy(params->filename, undirected_file.c_str());
+	strcpy(params->filename, undirected_file.c_str());
 
 	gk_startcputimer(params->iotimer);
 	graph = ReadGraph(params);
@@ -272,44 +276,44 @@ int main(int argc, char *argv[])
 	/*************************************************************************/
 	/*! Post process */
 	/*************************************************************************/
-    stringstream ss;
-    ss << kway;
-    string partitioned_filename = undirected_file + ".part." + ss.str();
-    ifstream pfin(partitioned_filename.c_str());
-    
-    vector<set<int> > vertices_partitions;
+	stringstream ss;
+	ss << kway;
+	string partitioned_filename = undirected_file + ".part." + ss.str();
+	ifstream pfin(partitioned_filename.c_str());
 
-    for (int i = 0; i < kway; i++)
-    {
-        set<int> v;
-        vertices_partitions.push_back(v);
-    }
+	vector<set<int> > vertices_partitions;
 
-    int p = 0;
-    int lnum = 1;
-    while (pfin >> p)
-    {
-        int vertex_id = revertMap[lnum];
-        vertices_partitions[p].insert(vertex_id);
-        lnum += 1;
-    }
+	for (int i = 0; i < kway; i++)
+	{
+		set<int> v;
+		vertices_partitions.push_back(v);
+	}
 
-    cout << "vertices divided into partitions." << endl;
+	int p = 0;
+	int lnum = 1;
+	while (pfin >> p)
+	{
+		int vertex_id = revertMap[lnum];
+		vertices_partitions[p].insert(vertex_id);
+		lnum += 1;
+	}
 
-    ofstream fout;
+	cout << "vertices divided into partitions." << endl;
 
-    for (int i = 0; i < kway; i++)
-    {
-        cout << "p" << i << " size: " << vertices_partitions[i].size() << endl;
+	ofstream fout;
 
-        stringstream ofname;
-        ofname<<filename<<".p"<<i<<".v";
-        fout.open(ofname.str().c_str());
-        for(set<int>::iterator it=vertices_partitions[i].begin();it!=vertices_partitions[i].end();it++){
-            fout<<*it<<endl;
-        }
-        fout.close();
-    }
+	for (int i = 0; i < kway; i++)
+	{
+		cout << "p" << i << " size: " << vertices_partitions[i].size() << endl;
+
+		stringstream ofname;
+		ofname << filename << ".p" << i;
+		fout.open(ofname.str().c_str());
+		for (set<int>::iterator it = vertices_partitions[i].begin(); it != vertices_partitions[i].end(); it++) {
+			fout << *it << endl;
+		}
+		fout.close();
+	}
 
 }
 

@@ -499,13 +499,24 @@
 	},
 	"buffers":
 	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 327.0,
 		"selected_items":
 		[
+			[
+				"for",
+				"SublimeAStyleFormatter: Format Current File"
+			],
 			[
 				"instal",
 				"Package Control: Install Package"
@@ -628,6 +639,7 @@
 	},
 	"file_history":
 	[
+		"/home/yecol/repo/metis/programs/gpmetis_ve.cpp",
 		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2007-001.log",
 		"/Users/Yecol/Workspace/git-repo/yecols.cn/EdiLife/page/20150407.html",
 		"/Users/Yecol/Workspace/git-repo/yecols.cn/inc/blog/2014-001.log",
@@ -706,7 +718,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 		]
@@ -832,8 +844,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		},
 		{
@@ -880,6 +919,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
 	"output.exec":
 	{
 		"height": 213.0
